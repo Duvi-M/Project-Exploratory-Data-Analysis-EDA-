@@ -1,5 +1,7 @@
-Data Job Market Analysis — Focusing on Data Analyst Roles
-Overview
+
+# Data Job Market Analysis — Focusing on Data Analyst Roles
+
+## Overview
 
 This project is my personal exploration of the data analytics job market, created to better understand which skills and tools are most valuable today.
 Using real job postings data, I analyzed salary trends, skill demand, and optimal skill combinations to help identify where the best opportunities are for aspiring and current data analysts.
