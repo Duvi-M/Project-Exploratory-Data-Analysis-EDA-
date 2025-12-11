@@ -1,5 +1,5 @@
 
-# Data Job Market Analysis — Focusing on Data Analyst Roles
+# Data Job Market Analysis — Focusing on Data Roles
 
 ## Overview
 
