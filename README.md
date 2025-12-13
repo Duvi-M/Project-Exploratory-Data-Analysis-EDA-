@@ -6,7 +6,7 @@
 This project is my personal exploration of the data analytics job market, created to better understand which skills and tools are most valuable today.
 Using real job postings data, I analyzed salary trends, skill demand, and optimal skill combinations to help identify where the best opportunities are for aspiring and current data analysts.
 
-The dataset comes from Luke Barousse’s Python Course
+The dataset comes from Luke Barousse’s
 , which provides structured data on job titles, salaries, locations, and required skills.
 With Python and data visualization tools, I aimed to answer key questions like:
 
